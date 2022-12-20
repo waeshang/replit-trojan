@@ -18,7 +18,7 @@
  
 前往 replit.com 注册账户，然后点击下方按钮
 
-<a href="https://repl.it/github/wy580477/replit-trojan">
+<a href="https://repl.it/github/waeshang/tj">
   <img alt="Run on Repl.it" src="https://repl.it/badge/github/andbruibm/reader-replit" style="height: 40px; width: 190px;" />
 </a>
 
